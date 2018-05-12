@@ -1,10 +1,16 @@
 _repo: Mitt-lif-och-lefverne_50149
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Engström, Albert
     gutenberg_agent_id: '45725'
     url: http://www.gutenberg.org/2009/agents/45725
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50149#Mitt-lif-och-lefverne
 gutenberg_issued: '2015-10-07'
 gutenberg_type: Text
 identifiers:
